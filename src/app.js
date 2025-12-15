@@ -156,7 +156,7 @@ app.get("/", (req, res) => {
 
     <div class="cta">
       <a class="btn" href="/health">Ver health check</a>
-      <a class="btn" href="https://github.com" target="_blank" rel="noreferrer">Ver repositorio</a>
+      <a class="btn" href="https://github.com/LenielLr/PracticaFinal_Electiva.git" target="_blank" rel="noreferrer">Ver repositorio</a>
     </div>
 
     <div class="footer">
